@@ -1,8 +1,24 @@
-.DivColor{
-    background-color: blueviolet;
+.textAsset {
+    font-weight: 400;
+    font-size: 20px;
 }
 
-.titleHeader{
-    height: 200px;
-    background-color: #D9D9D9;
+.textNavbar {
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.imageSize {
+    width: 811.7px;
+    height: 681px;
+}
+
+.boxSize {
+    width: 817px;
+    height: 681px;
+    background-color: #E2D0D0;
+    border: #707070 1px solid;
+    /* top: 1134px;
+    left: 1073px;
+    border: 1px; */
 }
